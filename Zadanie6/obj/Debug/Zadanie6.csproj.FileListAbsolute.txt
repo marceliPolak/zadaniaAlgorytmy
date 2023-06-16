@@ -1,0 +1,8 @@
+D:\aplikacje\zadaniaAlgorytmy\Zadanie6\bin\Debug\Zadanie6.exe.config
+D:\aplikacje\zadaniaAlgorytmy\Zadanie6\bin\Debug\Zadanie6.exe
+D:\aplikacje\zadaniaAlgorytmy\Zadanie6\bin\Debug\Zadanie6.pdb
+D:\aplikacje\zadaniaAlgorytmy\Zadanie6\obj\Debug\Zadanie6.csproj.AssemblyReference.cache
+D:\aplikacje\zadaniaAlgorytmy\Zadanie6\obj\Debug\Zadanie6.csproj.SuggestedBindingRedirects.cache
+D:\aplikacje\zadaniaAlgorytmy\Zadanie6\obj\Debug\Zadanie6.csproj.CoreCompileInputs.cache
+D:\aplikacje\zadaniaAlgorytmy\Zadanie6\obj\Debug\Zadanie6.exe
+D:\aplikacje\zadaniaAlgorytmy\Zadanie6\obj\Debug\Zadanie6.pdb

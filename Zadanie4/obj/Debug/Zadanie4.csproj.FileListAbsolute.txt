@@ -1,0 +1,8 @@
+D:\aplikacje\zadaniaAlgorytmy\Zadanie4\bin\Debug\Zadanie4.exe.config
+D:\aplikacje\zadaniaAlgorytmy\Zadanie4\bin\Debug\Zadanie4.exe
+D:\aplikacje\zadaniaAlgorytmy\Zadanie4\bin\Debug\Zadanie4.pdb
+D:\aplikacje\zadaniaAlgorytmy\Zadanie4\obj\Debug\Zadanie4.csproj.AssemblyReference.cache
+D:\aplikacje\zadaniaAlgorytmy\Zadanie4\obj\Debug\Zadanie4.csproj.SuggestedBindingRedirects.cache
+D:\aplikacje\zadaniaAlgorytmy\Zadanie4\obj\Debug\Zadanie4.csproj.CoreCompileInputs.cache
+D:\aplikacje\zadaniaAlgorytmy\Zadanie4\obj\Debug\Zadanie4.exe
+D:\aplikacje\zadaniaAlgorytmy\Zadanie4\obj\Debug\Zadanie4.pdb
